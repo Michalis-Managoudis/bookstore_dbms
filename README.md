@@ -16,9 +16,6 @@
 ![image](https://user-images.githubusercontent.com/100244277/233828910-c7efb308-40e7-4fa7-961a-015083393bbd.png)
 
 
-![image](https://user-images.githubusercontent.com/100244277/233829014-f048c895-e3ee-4704-ae6f-d1fe98fe49cf.png)
-
-
 ## Οδηγίες
 
 Για τη λέιτουργία της εφαρμογής χρειάζεται να συνδέσουμε τη Python(ver 3.7) με τη MySQL Workbench:
