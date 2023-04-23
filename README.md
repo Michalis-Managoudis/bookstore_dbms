@@ -8,12 +8,16 @@
 Παραδείγματα χρήσης εφαρμογής:
 
 Αρχικές Επιλογές.
+
 ![image](https://user-images.githubusercontent.com/100244277/233828828-c5b2ce7d-6ce3-4580-a716-385d2fef5804.png)
 Πληροφορίες της Βάσης σε διάφορα τυπικά σενάρια.
+
 ![image](https://user-images.githubusercontent.com/100244277/233828838-04486eda-acc2-483c-a4b5-53f9c063cdd1.png)
 ποτέλεσμα για τον Κατάλογο των βιβλίων.
+
 ![image](https://user-images.githubusercontent.com/100244277/233828906-cdbfacfc-f9aa-43ff-b54d-82ff9af5c988.png)
 Εισαγωγή πλειάδας.
+
 ![image](https://user-images.githubusercontent.com/100244277/233828910-c7efb308-40e7-4fa7-961a-015083393bbd.png)
 
 
