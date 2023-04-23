@@ -1,5 +1,18 @@
 # bookstore_dbms
 
+Η εφαρμογή διαχειρίζεται την βάση δεδομένων ενός εκδοτικού οίκου. Κύριο αντικείμενο της βάσης είναι η διαχείριση των βιβλίων που σχεδιάζονται, τυπώνονται και πωλούνται από τον οίκο. Η εφαρμογή δεν έχει γραφικά στοιχεία
+
+![Σχεσιακό_Μοντέλο](https://user-images.githubusercontent.com/100244277/233828786-b51be91e-9b45-4c7a-b80e-07ac3ceac7a0.png)
+
+Παραδείγματα χρήσης εφαρμογής.
+
+![image](https://user-images.githubusercontent.com/100244277/233828828-c5b2ce7d-6ce3-4580-a716-385d2fef5804.png)
+
+![image](https://user-images.githubusercontent.com/100244277/233828838-04486eda-acc2-483c-a4b5-53f9c063cdd1.png)
+
+
+## Οδηγίες
+
 Για τη λέιτουργία της εφαρμογής χρειάζεται να συνδέσουμε τη Python(ver 3.7) με τη MySQL Workbench:
 1.	Εγκατάσταση του MySQL Workbench με βάση το σύνδεσμο https://www.youtube.com/watch?v=WuBcTJnIuzo
 2.	Ανοίγουμε τη σύνδεση που έχουμε δημιουργήσει.
